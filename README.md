@@ -1,6 +1,6 @@
 # From CSV to PostgreSQL to Power BI: Analyzing Credit Card Transactions and Customer Reports
 
-![Project Banner](https://example.com/project-banner.png)
+![Project Banner](https://github.com/seotanvirbd/Credit_Card_Transaction/blob/main/credit_card_transcation_dashboard.png)
 
 ## 📊 Project Overview
 
