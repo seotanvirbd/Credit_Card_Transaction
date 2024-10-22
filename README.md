@@ -50,10 +50,10 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ## 📈 Dashboards
 
 ### Credit Card Transaction Report
-![Credit Card Transaction Dashboard](https://example.com/transaction-dashboard.png)
+![Credit Card Transaction Dashboard](https://github.com/seotanvirbd/Credit_Card_Transaction/blob/main/credit_card_transcation_dashboard.png)
 
 ### Credit Card Customer Report
-![Credit Card Customer Dashboard](https://example.com/customer-dashboard.png)
+![Credit Card Customer Dashboard](https://github.com/seotanvirbd/Credit_Card_Transaction/blob/main/credit_card_customer_report_dashboard.png)
 
 ## 🔍 Detailed Analysis
 
